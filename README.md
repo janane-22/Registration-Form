@@ -24,4 +24,4 @@ HTML for structure
 CSS for styling and responsive design
 
 JavaScript for form logic, validation, table updates, and delete functionality
-Here is a link --> 
+Here is a link --> https://janane-22.github.io/Registration-Form/
